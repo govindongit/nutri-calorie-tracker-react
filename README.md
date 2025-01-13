@@ -64,6 +64,8 @@
 - **Differentiating Between Add and Update Actions**: The UI switches between the "Add Item" and "Update Item" actions based on whether an item is being added or edited.
 - **Switching Button Labels Based on Edit Mode**: The label of the button changes to reflect whether the user is adding or editing an item.
 
+![image](https://github.com/user-attachments/assets/19ab8623-8b84-401f-a340-9e0bbd57cfc3)
+
 ---
 
 # Getting Started with Create React App
