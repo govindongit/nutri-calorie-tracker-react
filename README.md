@@ -1,6 +1,6 @@
-# NutritionMeter - React Nutrition and Calorie Tracker
+# Nutrition and Calorie Tracker - React
 
-## Main Headings and Concepts Used in the Code:
+## Main Concepts Used in the Code:
 
 ### 1. React Fundamentals
 
